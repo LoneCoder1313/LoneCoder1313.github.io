@@ -1,11 +1,11 @@
 # Site settings
-author: Ricky dildy
-title: 
+author: Ricky Dildy
+title: Learning Something New
 header-img: img/home-bg.png
 email: rdildy92@gmail.com
-copyright_name: Ricky dildy
+copyright_name: Ricky Dildy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  World of code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LoneCoder1313
